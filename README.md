@@ -1,4 +1,19 @@
 # Python - Django - Basic User Registration/Authentication with Blog
+Python 3.11.0
+pip 22.3 
+
+In requirements.txt
+```
+pip freeze > requirements
+pip install -r requirements.txt
+```
+asgiref==3.7.2
+crispy-bootstrap4==2022.1
+Django==4.2.5
+django-crispy-forms==2.0
+sqlparse==0.4.4
+tzdata==2023.3
+
 
 ## Setup - Step 1
 
